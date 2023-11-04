@@ -640,7 +640,7 @@ form select {
     font-weight: 700;
     font-size: 1.8rem;
     margin: 10px auto;
-    width: 50%;
+    width: 100%;
     text-align: center;
     text-wrap: nowrap;
 }
